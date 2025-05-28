@@ -1,2 +1,2 @@
-# FragmentedRepo
-The Repository for the fragmentedcat.com website
+# WebMintyRepo
+The Repository for the kitminty.com website
